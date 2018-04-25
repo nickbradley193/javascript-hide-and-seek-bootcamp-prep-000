@@ -1,4 +1,4 @@
-hjm,kji8999# JavaScript Hide and Seek
+firsthjm,kji8999# JavaScript Hide and Seek
 
 ## Objectives
 
